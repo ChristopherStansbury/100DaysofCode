@@ -1,12 +1,12 @@
 # 100DaysofCode
 ## Week 1
-Day 1: Install Python and set up your coding environment. Learn the basics of syntax, variables, data types, and operators.
-<br>Day 2: Learn how to use conditional statements, loops, and functions in Python. Practice with some simple exercises and challenges.
-<br>Day 3: Learn how to work with strings, lists, tuples, and dictionaries in Python. Practice with some string manipulation and data analysis tasks.
-<br>Day 4: Learn how to use modules, packages, and libraries in Python. Explore some of the most popular and useful ones, such as math, random, datetime, requests, and BeautifulSoup.
-<br>Day 5: Learn how to handle errors and exceptions in Python. Practice with some debugging techniques and tools.
-<br>Day 6: Learn how to write and read files in Python. Practice with some text processing and data extraction tasks.
-<br>Day 7: Learn how to use object-oriented programming (OOP) in Python. Understand the concepts of classes, objects, inheritance, polymorphism, and encapsulation.
+*Day 1: Install Python and set up your coding environment. Learn the basics of syntax, variables, data types, and operators.
+*Day 2: Learn how to use conditional statements, loops, and functions in Python. Practice with some simple exercises and challenges.
+*Day 3: Learn how to work with strings, lists, tuples, and dictionaries in Python. Practice with some string manipulation and data analysis tasks.
+*Day 4: Learn how to use modules, packages, and libraries in Python. Explore some of the most popular and useful ones, such as math, random, datetime, requests, and BeautifulSoup.
+*Day 5: Learn how to handle errors and exceptions in Python. Practice with some debugging techniques and tools.
+*Day 6: Learn how to write and read files in Python. Practice with some text processing and data extraction tasks.
+*Day 7: Learn how to use object-oriented programming (OOP) in Python. Understand the concepts of classes, objects, inheritance, polymorphism, and encapsulation.
 ## Week 2
 Day 8: Review what you have learned so far and test your knowledge with some quizzes and projects.
 Day 9: Learn how to use regular expressions in Python. Practice with some pattern matching and validation tasks.
